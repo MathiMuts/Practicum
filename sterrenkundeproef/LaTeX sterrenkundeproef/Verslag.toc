@@ -1,0 +1,9 @@
+\babel@toc {dutch}{}\relax 
+\contentsline {section}{\numberline {1}Doelstelling}{2}{}%
+\contentsline {section}{\numberline {2}Theorie}{2}{}%
+\contentsline {section}{\numberline {3}Meetopstelling}{3}{}%
+\contentsline {section}{\numberline {4}Meetresultaten}{3}{}%
+\contentsline {section}{\numberline {5}Analyse}{4}{}%
+\contentsline {section}{\numberline {6}Discussie}{6}{}%
+\contentsline {section}{\numberline {7}Conclusie}{6}{}%
+\contentsline {section}{\numberline {8}Appendix 1: Foutberekeningen op v}{7}{}%

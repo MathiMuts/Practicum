@@ -1,0 +1,6 @@
+amplitude: 8818.859 ± 221.450  
+hoeksnelheid: 0.013 ± 0.000  
+beginfase: 4.204 ± 0.037  
+verschuiving: 3158.217 ± 150.227  
+periode: 497.38346667808815 ± 1.3903472044327019
+massafunctie: 8.030709857338822e+24

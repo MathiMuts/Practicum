@@ -1,0 +1,17 @@
+bij origineel:
+	#Golflengtes? in nm?
+	Ster naar ons?
+	Radiale snelheid in header bij eerste 4 files(waarom)
+	#fitten van sinus doet irritant, hoe oplossen?
+		#op andere manier berekenen?
+		#fitten oplossen?
+	controleer fout op v (onderaan op origineel programma)
+		betere bepaling van fout op dataset!
+
+
+bij analyse:
+	meer naukeurigheid bij fout op gefitte parameters
+
+Algemeen:
+	FOUTEN!
+	fout op v echt ni goe genoeg
